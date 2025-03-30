@@ -17,5 +17,5 @@ List command & options: node client.js
 
 #ONBOARDING
 Step 2 YLium Notarization Onboarding Wizard
-Click: https://lab-gw.oyb.tech/dapp/wizard.html#step-1
+Click: https://gw.ylium.tech/dapp_24.5.1/wizard.html#step-1
 
